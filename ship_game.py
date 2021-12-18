@@ -117,7 +117,7 @@ class Ship(arcade.Sprite):
         self.change_angle=0
         self.width=48
         self.height=48
-        self.speed=3
+        self.speed=5
         self.bullet=[]
         self.live=3
 
